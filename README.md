@@ -48,4 +48,5 @@ See also [YouTube video](https://www.youtube.com/watch?v=tpavRDeDlTI)
 
 See details [here](https://github.com/stephanj/basketballVideoAnalysis/tree/master/homography-mapping)
 and [article](https://www.linkedin.com/pulse/journey-towards-creating-basketball-mini-map-stephan-janssen/) with [tutorial](https://github.com/stephanj/basketballVideoAnalysis/tree/master/mini-map-tutorial).
+https://dev.to/stephan007/open-source-sports-video-analysis-using-maching-learning-2ag4
 
